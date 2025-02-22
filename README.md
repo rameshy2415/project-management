@@ -1,4 +1,5 @@
-# React App with Tailwind CSS
+# Create your project and manage their task
+## Application is build based on vite React App with Tailwind CSS
 
 ![React](https://img.shields.io/badge/React-18.0-blue?style=flat&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.0-blue?style=flat&logo=tailwind-css)
