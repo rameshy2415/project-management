@@ -48,6 +48,7 @@ function App() {
             </button>
 
             <hr className="border-0.5 border-t border-white w-8/12" />
+            <div className="flex flex-col gap-2">
             {projectArray.map((value, index) => {
               return (
                 <div className="flex" key={index}>
@@ -63,6 +64,8 @@ function App() {
                 </div>
               );
             })}
+            </div>
+           
           </aside>
 
           {projectArray.length === 0 && !showNewProjectForm && (
