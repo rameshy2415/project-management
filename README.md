@@ -16,5 +16,5 @@ This is a **React.js** application styled with **Tailwind CSS**. The project fol
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/rameshy2415/project-management.git
+cd project-management
