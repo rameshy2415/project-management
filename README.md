@@ -1,8 +1,20 @@
-# React + Vite
+# React App with Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-18.0-blue?style=flat&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.0-blue?style=flat&logo=tailwind-css)
 
-Currently, two official plugins are available:
+## 🚀 Project Overview
+This is a **React.js** application styled with **Tailwind CSS**. The project follows best practices for responsive UI development and modern frontend architecture.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📂 Features
+- ✅ **Fast & Responsive**: Uses Tailwind CSS for styling
+- 🎨 **Customizable**: Easily extendable with Tailwind utilities
+- ⚡ **Optimized Performance**: Lightweight and fast
+- 🏗 **Scalable Architecture**: Organized folder structure for scalability
+
+## 🛠️ Installation & Setup
+
+### **1️⃣ Clone the Repository**
+```sh
+git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY.git
+cd YOUR_REPOSITORY
